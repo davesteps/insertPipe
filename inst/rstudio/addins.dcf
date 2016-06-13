@@ -1,0 +1,9 @@
+Name: Insert %>%
+Description: Inserts `%>%` at the cursor position.
+Binding: insertPipe
+Interactive: false
+
+Name: Insert Fun
+Description: Inserts `<- function()` at the cursor position.
+Binding: insertFun
+Interactive: false
